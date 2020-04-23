@@ -1,3 +1,3 @@
 #Example Progress Journal
 
-[Here](files/example_homework_0.html) is my homework examples. 
+[Here](/Users/gozdesen/Desktop/example_homework_0.html) is my homework examples. 
