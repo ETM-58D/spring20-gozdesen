@@ -13,6 +13,6 @@
 
 [This](ETM58D_HW2&3.html) is HW2&3. 
 
-[This](hw_4_a.html) is HW4 Part A.
+[This](hw_4_a.html) is HW4.
 
 web application can be accessed from [here](http://127.0.0.1:3530)
